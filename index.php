@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 		<div class="row">
 			<div class="col-md-9" id="content-list">
-				<h2>News</h2>
+				<h2>ข่าวสาร</h2>
 				<img src="img/thumb1.jpg" width="180" height="180" class="right img-thumbnail">
 				<h3><a href="news.php">การเปลี่ยนแปลงการเปิด – ปิดประตูจุฬาฯ</a></h3>
 				<h6>ข่าวลงวันที่ 11 กุมภาพันธ์ 2557</h6>

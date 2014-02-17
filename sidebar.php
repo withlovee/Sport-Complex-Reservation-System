@@ -5,11 +5,10 @@
 				</a>
 				<h3>เมนู</h3>
 				<div class="list-group">
-					<a href="" class="list-group-item">แก้ไขประวัติส่วนตัว</a>
+					<a href="edit_profile.php" class="list-group-item">แก้ไขประวัติส่วนตัว</a>
 					<a href="reserve.php" class="list-group-item">จองสนามกีฬา</a>
-					<a href="" class="list-group-item">ประวัติการจอง</a>
+					<a href="history.php" class="list-group-item">ประวัติการจอง</a>
 					<a href="index.php" class="list-group-item">ข่าวสาร</a>
-					<a href="" class="list-group-item">ยกเลิกการจอง</a>
 				</div>
 				<h3>อ่านข่าวเก่า</h3>
 				<div class="list-group">
