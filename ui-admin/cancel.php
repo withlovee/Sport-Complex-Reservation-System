@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 		<div class="row">
 			<div class="col-md-9" id="content-list">
-				<h2>ยืนยันการจองสนามกีฬา</h2>
+				<h2>ต้องการยกเลิกการจองใช่หรือไม่</h2>
 				<div class="row">
 					<div class="col-xs-4">
 						<p><br><br><img src="img/bad1.jpg" alt="" class="img-responsive"></p>
@@ -15,16 +15,13 @@
 				</div><!-- /.row -->
 				<div class="row">
 					<div class="col-md-6">
-						<form role="form" method="GET" action="history.php">
-							<input type="hidden" name="success" value="1">
-							<br>
-							<input type="submit" class="btn btn-primary btn-lg btn-block" value="ยืนยัน">
-						</form>
+						<br>
+						<a href="history-remove.php" class="btn btn-primary btn-lg btn-block">ใช่</a>
 					</div>
 					<!-- /.col-md-6 -->
 					<div class="col-md-6">
 						<br>
-						<a href="time.php" class="btn btn-default btn-lg btn-block">ย้อนกลับ</a>
+						<a href="time.php" class="btn btn-default btn-lg btn-block">ไม่ใช่</a>
 					</div>
 					<!-- /.col-md-6 -->
 				</div>

@@ -2,11 +2,6 @@
 		<div class="row">
 			<div class="col-md-9" id="content-list">
 				<h2>ดูประวัติการจอง</h2>	
-				<?php 
-				if(isset($_GET['success']) && $_GET['success'] == '1'){
-					echo '<div class="alert alert-success"><strong>ปรับปรุงข้อมูลเสร็จสมบูรณ์แล้ว</strong></div>	';
-				}
-				 ?>
 				<div class="well">
 					<div class="form-group">
 						<label class="col-sm-2 text-right" style="position: relative; top: 8px;">
