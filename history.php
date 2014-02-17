@@ -2,6 +2,29 @@
 		<div class="row">
 			<div class="col-md-9" id="content-list">
 				<h2>ดูประวัติการจอง</h2>	
+				<div class="well">
+					<div class="form-group">
+						<label class="col-sm-2 text-right" style="position: relative; top: 8px;">
+							ตั้งแต่วันที่
+						</label>
+						<div class="col-xs-2">
+							<input type="text" class="form-control" value="1/2/2557">
+						</div>
+						<label class="col-sm-2 text-right" style="position: relative; top: 8px;">
+							จนถึงวันที่
+						</label>
+						<div class="col-xs-2">
+							<input type="text" class="form-control" value="2/2/2557">
+						</div>
+						<div class="col-xs-2">
+							
+						</div>
+						<div class="col-xs-2">
+							<input type="submit" class="form-control btn btn-info" value="ค้นหา">
+						</div>
+					</div>
+					<br>
+				</div>
 				<table class="table table-striped">
 					<thead>
 						<tr>

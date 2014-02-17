@@ -48,14 +48,10 @@
 		</ul>
 		<ul class="nav navbar-nav navbar-right">
 			<li class="dropdown">
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Nuttapon P <b class="caret"></b></a>
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown">ณัฐพล พัฒนาวิจิตร <b class="caret"></b></a>
 				<ul class="dropdown-menu">
-					<li><a href="edit_profile.php">Edit Profile</a></li>
-					<li><a href="member_profile.php">View Profile</a></li>
-					<li><a href="member_profile.php#topics">View your posts</a></li>
-					<li class="divider"></li>
-					<li><a href="admin">Admin</a></li>
-					<li><a href="#">Logout</a></li>
+					<li><a href="edit_profile.php">แก้ไขข้อมูลส่วนตัว</a></li>
+					<li><a href="signin.php">ออกจากระบบ</a></li>
 				</ul>
 			</li>
 		</ul>

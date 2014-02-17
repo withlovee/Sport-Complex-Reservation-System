@@ -1,5 +1,5 @@
 			<div class="col-md-3" id="sidebar">
-				<a type="button" class="create-btn btn btn-primary btn-lg btn-block">
+				<a type="button" class="create-btn btn btn-info btn-lg btn-block">
 					<span class="glyphicon glyphicon-plus-sign"></span>
 					จองสนามกีฬา
 				</a>
