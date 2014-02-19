@@ -8,7 +8,7 @@
 						<label for="exampleInputEmail1">ใส่อีเมล</label>
 						<input type="email" class="form-control" id="exampleInputEmail1" placeholder="abc@mail.com">
 					</div>
-					<button class="btn btn-lg btn-primary btn-block" type="submit"><span class="glyphicon glyphicon-export"></span> Send me password</button>
+					<button class="btn btn-lg btn-primary btn-block" type="submit"><span class="glyphicon glyphicon-export"></span> ส่งรหัสผ่านไปทางอีเมล</button>
 					<br>
 					<p class="text-center"><a href="signin.php">กลับไปหน้าเข้าสู่ระบบ</a></p>
 				</form>

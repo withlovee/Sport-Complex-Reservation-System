@@ -5,6 +5,7 @@
 				<div class="thread">
 					<div class="context">
 						<form class="form-horizontal" role="form" action="view_profile.php">
+						<input type="hidden" name="success" value="1">
 							<div class="form-group">
 								<label for="inputEmail3" class="col-sm-4 control-label">ID</label>
 								<div class="col-sm-8">

@@ -8,7 +8,7 @@
 					</div><!-- /.col-xs-4 -->
 					<div class="col-xs-8">
 						<h2><a href="calendar.php">สนามแบดมินตัน</a></h2>
-						<h3>วันที่ 28 กุมภาพันธ์ 2556 <br>จำนวน: 6</h3>
+						<h3>วันที่ 28 กุมภาพันธ์ 2557 <br>จำนวน: 6</h3>
 					</div><!-- /.col-xs-8 -->
 				</div><!-- /.row -->
 				<table class="table table-striped text-center">

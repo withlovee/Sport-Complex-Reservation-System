@@ -1,7 +1,12 @@
 <?php include('header.php'); ?>
-		<h2>แก้ไขข้อมูลส่วนตัว</h2>
+		<h2>ดูข้อมูลส่วนตัว</h2>
 		<div class="row">
 			<div class="col-md-9" id="content-view">
+						<?php 
+						if(isset($_GET['success']) && $_GET['success'] == '1'){
+							echo '<div class="alert alert-success"><strong>ปรับปรุงข้อมูลเสร็จสมบูรณ์แล้ว</strong></div>	';
+						}
+						 ?>
 				<div class="thread">
 					<div class="context">
 						<table class="table">

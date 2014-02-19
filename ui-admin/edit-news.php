@@ -2,9 +2,15 @@
 		<h2>แก้ไขข่าว: การเปลี่ยนแปลงการเปิด – ปิดประตูจุฬาฯ</h2>
 		<div class="row">
 			<div class="col-md-9" id="content-view">
+				<?php 
+				if(isset($_GET['success']) && $_GET['success'] == '1'){
+					echo '<div class="alert alert-success"><strong>ปรับปรุงข้อมูลเสร็จสมบูรณ์แล้ว</strong></div>	';
+				}
+				 ?>
 				<div class="thread">
 					<div class="context">
-						<form class="form-horizontal" role="form" method="GET" action="index.php">
+						<form class="form-horizontal" role="form" method="GET" action="edit-news.php">
+						<input type="hidden" name="success" value="1">
 							<input type="hidden" name="success" value="1">
 							<div class="form-group">
 								<label for="inputEmail3" class="col-sm-2 control-label">หัวข้อ</label>

@@ -4,7 +4,7 @@
 				<h2>เพิ่มอุปกรณ์/สนามกีฬา</h2>
 				<div class="row">
 					<div class="col-xs-4">
-						<img src="img/placeholder.jpg" alt="" class="img-responsive">
+						<img src="../img/s-pl.jpg" alt="" class="img-responsive">
 					</div><!-- /.col-xs-4 -->
 					<div class="col-xs-8">
 						<input class="form-control input-lg" type="text" placeholder="ชื่อสนาม,อุปกรณ์">

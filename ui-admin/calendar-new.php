@@ -2,6 +2,11 @@
 		<div class="row">
 			<div class="col-md-9" id="content-list">
 				<h2>แก้ไขอุปกรณ์/สนามกีฬา</h2>
+						<?php 
+						if(isset($_GET['success']) && $_GET['success'] == '1'){
+							echo '<div class="alert alert-success"><strong>ปรับปรุงข้อมูลเสร็จสมบูรณ์แล้ว</strong></div>	';
+						}
+						 ?>
 				<div class="row">
 					<div class="col-xs-4">
 						<img src="img/bad1.jpg" alt="" class="img-responsive">
@@ -64,7 +69,7 @@
 				<br>
 				<div class="row">
 					<div class="col-xs-4">
-						<img src="img/placeholder.jpg" alt="" class="img-responsive">
+						<img src="../img/s-pl.jpg" alt="" class="img-responsive">
 					</div><!-- /.col-xs-4 -->
 					<div class="col-xs-8">
 						<div class="input-group" style="width: 30%">
@@ -76,7 +81,7 @@
 					</div><!-- /.col-xs-8 -->
 				</div><!-- /.row -->
 				<br>
-				<form role="form" method="GET" action="reserve.php">
+				<form role="form" method="GET" action="calendar.php">
 					<input type="hidden" name="success" value="1">
 					<p>
 						<input type="submit" class="btn btn-lg btn-info" value="ปรับปรุงข้อมูล">

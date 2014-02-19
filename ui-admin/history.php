@@ -38,7 +38,7 @@
 						<tr class="warning">
 							<td>28 กุมภาพันธ์ 2557</td>
 							<td>8.00 - 9.00</td>
-							<td>สนามแบตมินตัน 6</td>
+							<td>สนามแบตมินตัน 1</td>
 							<td>รอเข้าใช้ <a href="cancel.php">(ยกเลิก)</a></td>
 						</tr>
 						<tr class="success">
