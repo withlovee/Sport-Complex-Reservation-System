@@ -12,7 +12,7 @@
 						<label for="exampleInputEmail1">ยืนยันรหัสผ่านใหม่</label>
 						<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
 					</div>
-					<button class="btn btn-lg btn-primary btn-block" type="submit"><span class="glyphicon glyphicon-export"></span> Send me password</button>
+					<button class="btn btn-lg btn-primary btn-block" type="submit"><span class="glyphicon glyphicon-export"></span> ตั้งรหัสผ่านใหม่</button>
 					<br>
 					<p class="text-center"><a href="signin.php">กลับไปหน้าเข้าสู่ระบบ</a></p>
 				</form>
